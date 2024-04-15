@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/alpha-vantage",
-  "version": "1.23.3",
+  "version": "1.0.0",
   "description": "A simple alpha-vantage component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.",
   "keywords": [
     "alpha-vantage",
